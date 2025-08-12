@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+    background: #111;
+  }
+  
+  #particles-js {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+  
+  header {
+    padding: 40px 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  header .container {
+    display: flex;
+    align-items: center;
+    max-width: 900px;
+    gap: 20px;
+  }
+  
+  .profile-img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid white;
+  }
+  
+  .projects {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 20px;
+  }
+  
+  .card {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 12px;
+    transition: transform 0.2s;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .card a {
+    color: #00ffff;
+    text-decoration: none;
+  }
+  
