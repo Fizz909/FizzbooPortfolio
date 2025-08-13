@@ -14,7 +14,8 @@ Apresentação de Projetos: Exibição de projetos e informações.
 
 Desenvolvimento: Bot Toastieboo multifuncional para Discord, com funcionalidades em desenvolvimento.
 
-img/tst.png
+![Imagem Bakery](img/tst.png)
+
 
 /fizzboo
 ├── /assets
