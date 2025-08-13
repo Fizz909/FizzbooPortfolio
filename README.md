@@ -16,14 +16,14 @@ Desenvolvimento: Bot Toastieboo multifuncional para Discord, com funcionalidades
 
 ```bash
 /fizzboo
-├── /assets
-│   ├── logo.png
+├── /img
+│   ├── fth.png
+│   ├── saphirex.webp
+│   ├── tst.gif
+│   ├── icone.png
 │   └── tst.png
-├── /css
-│   └── style.css
-├── /js
-│   └── script.js
 ├── index.html
+├── style.css
 └── README.md
 ```
 
