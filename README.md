@@ -16,15 +16,14 @@ Desenvolvimento: Bot Toastieboo multifuncional para Discord, com funcionalidades
 
 ![Imagem Bakery](img/tst.png)
 
-
+```bash
 /fizzboo
 ├── /assets
 │   ├── logo.png
-│   └── screenshot1.png
+│   └── tst.png
 ├── /css
 │   └── style.css
 ├── /js
 │   └── script.js
 ├── index.html
 └── README.md
-
