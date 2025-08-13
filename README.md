@@ -25,5 +25,6 @@ Desenvolvimento: Bot Toastieboo multifuncional para Discord, com funcionalidades
 │   └── script.js
 ├── index.html
 └── README.md
+```
 
 ![Imagem Bakery](img/tst.png)
