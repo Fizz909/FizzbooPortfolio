@@ -14,7 +14,7 @@ Apresentação de Projetos: Exibição de projetos e informações.
 
 Desenvolvimento: Bot Toastieboo multifuncional para Discord, com funcionalidades em desenvolvimento.
 
-https://fizzboo.netlify.app/img/tst.png
+/img/tst.png
 
 /fizzboo
 ├── /assets
@@ -26,3 +26,4 @@ https://fizzboo.netlify.app/img/tst.png
 │   └── script.js
 ├── index.html
 └── README.md
+
